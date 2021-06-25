@@ -8,8 +8,6 @@ pip install pyserial
 sber = SberGate()
 #### Уже можем оплатить что-то
 #print(sber.Pay(7000))
-#### Но вначале надо проверить готовность пинпада
-#print(sber.PinPadReady())
 #### Сделаем возврат
 #print(sber.Ret(1000))
 #### Возникли проблемы смотрим описание ошибки
