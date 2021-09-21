@@ -20,3 +20,5 @@ error, TermNum, MerchNum = sber.GetTerminalNumber()
 sber.ZReport()
 #### Если всё хорошо то вот он чек
 cheque = sber.cheque_text
+
+Для обратной связи - kulinar847ru@gmail.com
